@@ -944,4 +944,13 @@ footer {
     .thank-you-actions .cta-button {
         width: 100%;
     }
+}
+
+.contact-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.contact-link:hover {
+    text-decoration: underline;
 } 
